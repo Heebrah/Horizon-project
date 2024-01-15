@@ -674,6 +674,7 @@ li{
     display: flex;
     justify-content: space-between;
     margin-left: 25px;
+    margin-right: 25px;
 }
 .your-choice{
     display: inline;
@@ -886,4 +887,8 @@ section{
 
    @keyframes spin {
     100%{transform: rotate(360deg)}
+   }
+
+   .footer{
+    margin-top: 200px;
    }
